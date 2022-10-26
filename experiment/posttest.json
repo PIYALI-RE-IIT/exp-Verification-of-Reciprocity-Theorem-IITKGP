@@ -17,6 +17,23 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "For the Reciprocity Theorem to satisfy the ratio of response to excitation before and after the source is replaced should be?",
+      "answers": {
+        "a": "different",
+        "b": "same",
+        "c": "before source is replaced is greater than after the source is replaced",
+        "d": "before source is replaced is less than after the source is replaced"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    } 
   ]
 }
