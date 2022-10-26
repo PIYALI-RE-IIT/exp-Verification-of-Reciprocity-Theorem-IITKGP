@@ -14,7 +14,7 @@
 								find the ratio=V<sub>c-c</sub> /I<sub>d-d</sub>.</li> 
 								The two ratio should be identical that is,
 								<p>									
-$$\frac{V_{a-a}}{I_{b-b}} & = \frac{V_{c-c}}{I_{d-d}}$$									
+$$\frac{V_{a-a}}{I_{b-b}}=\frac{V_{c-c}}{I_{d-d}}$$									
 								</p>
 								</ol>
 								</p>
